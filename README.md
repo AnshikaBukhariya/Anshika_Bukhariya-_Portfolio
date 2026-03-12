@@ -51,7 +51,7 @@ Beyond data, I am interested in:
 ## 📫 Contact Me
 - **Email:** [anshikabukhariya1815@gmail.com](mailto:anshikabukhariya1815@gmail.com)
 - **Location:** Vijay Nagar, Indore
-- **Live Portfolio:** [anshikabukhariya.github.io](https://anshikabukhariya.github.io/)
+- **Live Portfolio:** [anshikabukhariya.github.io](https://anshikabukhariya.github.io/Anshika_Bukhariya_Portfolio/)
 
 ---
 *© 2026 Anshika Bukhariya*
